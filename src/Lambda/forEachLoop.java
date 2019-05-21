@@ -21,6 +21,7 @@ public class forEachLoop {
 //			
 //		}
 
+		System.out.println("Hello World");
 		values.forEach(i -> System.out.println(i));
 	}
 
